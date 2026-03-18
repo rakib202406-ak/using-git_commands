@@ -1,6 +1,6 @@
 # 🚀 Ultimate Git & GitHub Command Guide
 
-A comprehensive cheat sheet and guide containing all essential Git commands from your PDF, plus industry-standard best practices for GitHub.
+A comprehensive guide containing all essential Git commands industry-standard best practices for GitHub.
 
 ---
 
@@ -71,4 +71,4 @@ To make your GitHub profile look professional, follow these:
 * **GitHub Pages:** Host static websites for free via **Settings > Pages**.
 
 ---
-_Generated based on Git Training Documentation_
+
